@@ -1,7 +1,5 @@
 # Intelligent AI Training Memory and Analytics System
 
----
-
 ## Overview
 
 NeuroVault is a full-stack system designed to store, manage, and analyze AI training processes using a structured relational database. It extends traditional database applications by incorporating real-time analytics, anomaly detection, and a web-based visualization layer.
