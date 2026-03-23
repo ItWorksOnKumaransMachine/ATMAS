@@ -1,6 +1,4 @@
-# NeuroVault
-
-Intelligent AI Training Memory and Analytics System
+# Intelligent AI Training Memory and Analytics System
 
 ---
 
