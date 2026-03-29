@@ -2,8 +2,6 @@
 
 ### *Ask your data anything.*
 
-> A bold, offline-first Natural Language Database Interface that lets you query and manipulate databases without writing SQL.
-
 ---
 
 ##  Overview
@@ -221,16 +219,7 @@ IDKSQL/
 
 ##  Author
 
-Built by [Your Name]
+Built by C.Kumaran
 
 ---
 
-##  Final Note
-
-IDKSQL is not just a database project —
-it’s a step toward the future where:
-
-> Humans talk.
-> Systems understand.
-
----
